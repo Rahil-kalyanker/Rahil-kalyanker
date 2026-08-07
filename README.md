@@ -1,24 +1,134 @@
-# 💫 About Me:
-Front hand developer<br>
+<div align="center">
 
+# Hey there! 👋 I'm *Rahil Kalyanker*
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_justt_.rahil__?igsh=MXZvdXFoa3ZpYXFscQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahil-kalyanker-a508973a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahilkalyanker99@gmail.com) 
+### 💻 Aspiring Full Stack Developer | AI Enthusiast | CSE Student
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rahil-kalyanker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Rahil-kalyanker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rahil-kalyanker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+my+GitHub!;Turning+Ideas+Into+Code.;Building+Today+for+Tomorrow.;Learning.+Creating.+Growing." />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahil-kalyanker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rahil-kalyanker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 *Computer Science & Engineering Student* at *ACS College of Engineering, Bangalore*
+
+💡 Passionate about building modern web applications and solving real-world problems through technology.
+
+🌱 Currently learning *HTML • CSS • JavaScript • Git • GitHub*
+
+🎯 My goal is to become a *Full Stack Developer* and build impactful software that makes people's lives easier.
+
+📡 Built an *RFID-Based Staff Locating System* as my first-year academic project.
+
+🤖 I love exploring AI tools to improve productivity, generate smart notes, and simplify learning.
+
+📷 Beyond coding, you'll often find me doing *Photography* or creating *AI-powered photo edits*.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced JavaScript
+- Full Stack Development
+- Git & GitHub Best Practices
+- Clean Code Principles
+
+---
+
+# 🏆 Certifications
+
+✔️ Programming for Everybody (Python) – University of Michigan (Coursera)
+
+✔️ Introduction to Artificial Intelligence – IBM (Coursera)
+
+✔️ Speak English Professionally – Georgia Institute of Technology (Coursera)
+
+---
+
+# 📌 Featured Project
+
+### 📡 RFID-Based Staff Locating System
+
+A smart RFID-based system developed during my first year that helps identify and display staff locations efficiently using RFID technology.
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Professional Full Stack Developer
+
+✅ Build Amazing Real-World Projects
+
+✅ Contribute to Open Source
+
+✅ Learn Modern Web Technologies
+
+✅ Keep Growing Every Single Day
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rahilkalyanker99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahil-kalyanker-a508973a6">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_justt_.rahil__?igsh=MXZvdXFoa3ZpYXFscQ==">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> *"Insaan apne shaitaan khud banata hai... Zindagi bas unse jeetna sikhati hai."* 🖤
+
+---
+
+<div align="center">
+
+### ⚡ "Every line of code is one step closer to becoming the developer I aspire to be."
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+</div>
